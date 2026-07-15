@@ -1,0 +1,107 @@
+[
+    {
+        "slide": 1,
+        "object_name": "Rectangle 14",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 1,
+        "object_name": "Picture 6",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 1,
+        "object_name": "Group 16",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 1,
+        "object_name": "Rectangle 21",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 1,
+        "object_name": "Title 1",
+        "object_type": "text"
+    },
+    {
+        "slide": 1,
+        "object_name": "Subtitle 2",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 2,
+        "object_name": "Rectangle 28",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 2,
+        "object_name": "Rectangle 30",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 2,
+        "object_name": "Title 1",
+        "object_type": "text"
+    },
+    {
+        "slide": 2,
+        "object_name": "Content Placeholder 3",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 3,
+        "object_name": "Title 1",
+        "object_type": "text"
+    },
+    {
+        "slide": 3,
+        "object_name": "chart_portfolio_summary",
+        "object_type": "chart"
+    },
+    {
+        "slide": 3,
+        "object_name": "chart_portfolio_distribution",
+        "object_type": "chart"
+    },
+    {
+        "slide": 4,
+        "object_name": "Title 1",
+        "object_type": "text"
+    },
+    {
+        "slide": 4,
+        "object_name": "table_portfolio_summary",
+        "object_type": "table"
+    },
+    {
+        "slide": 5,
+        "object_name": "Rectangle 9",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 5,
+        "object_name": "Rectangle 11",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 5,
+        "object_name": "Group 13",
+        "object_type": "unknown"
+    },
+    {
+        "slide": 5,
+        "object_name": "Title 1",
+        "object_type": "text"
+    },
+    {
+        "slide": 5,
+        "object_name": "Subtitle 2",
+        "object_type": "text"
+    },
+    {
+        "slide": 5,
+        "object_name": "Picture 4",
+        "object_type": "unknown"
+    }
+]

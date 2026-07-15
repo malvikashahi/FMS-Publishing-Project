@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>
+Mapping Configuration
+</title>
+
+<style>
+
+body{
+    font-family:Arial;
+    padding:20px;
+}
+
+table{
+    border-collapse:collapse;
+    width:100%;
+}
+
+th,td{
+    border:1px solid #ccc;
+    padding:10px;
+}
+
+th{
+    background:#012B54;
+    color:white;
+}
+
+.button{
+    display:inline-block;
+    background:#3949AB;
+    color:white;
+    padding:10px 20px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>
+Mapping Configuration
+</h1>
+
+<table>
+
+<tr>
+    <th>Slide</th>
+    <th>Object Name</th>
+    <th>Object Type</th>
+    <th>Transformation</th>
+</tr>
+
+{% for obj in objects %}
+
+<tr>
+
+    <td>
+        {{ obj.slide }}
+    </td>
+
+    <td>
+        {{ obj.object_name }}
+    </td>
+
+    <td>
+        {{ obj.object_type }}
+    </td>
+
+    <td>
+        {{ obj.transformation }}
+    </td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+<br>
+
+/
+Back
+</a>
+
+</body>
+
+</html>

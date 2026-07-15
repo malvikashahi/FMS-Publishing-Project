@@ -1,0 +1,1 @@
+from holdings_transformation_engine import *2 3FILE_PATH = "HoldingData.xlsx"4 5obj = HoldingsDataObject(FILE_PATH)6 7df = obj.dataframe()8 9engine = HoldingsTransformationEngine(df)10 11top10 = engine.top10_holdings()12 13print(top10)

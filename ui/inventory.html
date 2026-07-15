@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Template Inventory</title>
+</head>
+
+<body>
+
+<h1>Template Inventory</h1>
+
+<ul>
+
+{% for item in inventory %}
+
+<li>
+
+Slide {{ item.slide }}
+
+-
+
+{{ item.object_name }}
+
+-
+
+{{ item.object_type }}
+
+</li>
+
+{% endfor %}
+
+</ul>
+
+<br>
+
+/
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+    "presentation": "TestCase1",
+    "objects": [
+        {
+            "slide": 3,
+            "object_name": "chart_portfolio_summary",
+            "object_type": "chart",
+            "transformation": "PortfolioSummary"
+        },
+        {
+            "slide": 3,
+            "object_name": "chart_portfolio_distribution",
+            "object_type": "chart",
+            "transformation": "PortfolioDistribution"
+        },
+        {
+            "slide": 4,
+            "object_name": "table_portfolio_summary",
+            "object_type": "table",
+            "transformation": "PortfolioSummary"
+        },
+        {
+            "slide": 1,
+            "object_name": "Title 1",
+            "object_type": "text",
+            "transformation": "ReportTitle"
+        },
+        {
+            "slide": 5,
+            "object_name": "Subtitle 2",
+            "object_type": "text",
+            "transformation": "AsOfDate"
+        }
+    ]
+}
