@@ -74,7 +74,7 @@ def dashboard():
         <form action="/upload_excel" method="post" enctype="multipart/form-data">
             <input type="file" name="file" accept=".xlsx" required>
             <br><br>
-            <button type="submit">Upload Excel</button>
+          
         </form>
 
         <hr>
