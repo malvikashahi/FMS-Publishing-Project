@@ -84,7 +84,7 @@ def dashboard():
         <form action="/upload_ppt" method="post" enctype="multipart/form-data">
             <input type="file" name="file" accept=".pptx" required>
             <br><br>
-            <button type="submit">Upload PPT</button>
+           
         </form>
 
         <hr>
